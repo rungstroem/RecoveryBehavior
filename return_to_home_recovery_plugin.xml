@@ -1,0 +1,7 @@
+<library path="lib/libreturn_to_home_recovery">
+    <class name="return_to_home_recovery/return_to_home_recovery" type="return_to_home_recovery::return_to_home_recovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      Robot returns to home when
+    </description>
+  </class>
+</library>
